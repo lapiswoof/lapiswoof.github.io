@@ -7,7 +7,7 @@ body, html {
 
 .bg-image {
 
-  background-image: url("assets/bg.png");
+  background-image: url("../bg.png");
   filter: blur(8px);
   -webkit-filter: blur(8px);
   height: 100%; 
